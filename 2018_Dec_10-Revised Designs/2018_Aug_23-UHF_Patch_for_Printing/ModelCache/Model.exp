@@ -1,0 +1,53 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+-Lpatch/2#
+-30
+-Lsubs/2#
+-42.5
+-Lsubs/2# + Lstrip
+-37.5
+-Lsubs/2# + Wstrip/2#
+-41.25
+-Tsubs
+-1.6
+-Tsubs - Tpatch
+-1.65
+-Wpatch/2#
+-39.125
+-Wpatch/2# + y0
+-19.125
+-Wstrip/2#
+-1.25
+-Wstrip/2# - x0
+-3.75
+-Wsubs/2# + B
+-45
+-Wsubs/2# + B + Lstrip
+-40
+-Wsubs/2# + B + Wstrip/2#
+-43.75
+2#*Wstrip
+5
+Lpatch+25#
+85
+Lpatch/2#
+30
+Lsubs/2#
+42.5
+Tpatch
+0.05
+Wpatch+15.75# - 4#
+90
+Wpatch/2#
+39.125
+Wstrip
+2.5
+Wstrip/2#
+1.25
+Wstrip/2# + x0
+3.75
+Wsubs/2# - A
+45
+tpatch
+0.05
+@LONG

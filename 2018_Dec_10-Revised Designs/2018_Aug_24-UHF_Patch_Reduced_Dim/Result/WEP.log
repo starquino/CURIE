@@ -1,0 +1,33 @@
+matrixcalc_AMD64 @ TARQUINO: 1xN000:
+                                      Discrete port: 1
+matrixcalc_AMD64 @ TARQUINO: 1xN000:  # edges: 0
+
+
+matrixcalc_AMD64 @ TARQUINO: 1xN001:
+                                      Discrete port: 1
+matrixcalc_AMD64 @ TARQUINO: 1xN001:  # edges: 0
+
+
+matrixcalc_AMD64 @ TARQUINO: 1xN002:
+                                      Discrete port: 1
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  # edges: 3
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 0, point: 43067
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 0, wire ends: (0.00 | -39.13 | -1.60)
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 0, pos (0.00 | -39.13 | -1.60)
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 0 is at boundary: 0
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 0 is inside PEC
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 1, point: 50459
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 1, wire ends: (0.00 | -39.13 | 0.00)
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 1, pos (0.00 | -39.13 | 0.00)
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 1 is at boundary: 0
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  ending 1 is inside PEC
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  # endings: 2, # corrected: 0, not corrected: 0
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  connection state of ending 0: 1
+matrixcalc_AMD64 @ TARQUINO: 1xN002:  connection state of ending 1: 1
+
+
+matrixcalc_AMD64 @ TARQUINO: 1xN003:
+                                      Discrete port: 1
+matrixcalc_AMD64 @ TARQUINO: 1xN003:  # edges: 0
+
+

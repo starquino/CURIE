@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Sebastian H Tarquino
+[Mesh Cells]
+323,232
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:2018_aug_24-uhf_patch_reduced_dim.cst?d9c46ebace689e625285d5c316523fee?19938:numberofparameters=12:port=1>mode=1>zre=0>zim=0:::a?b?lpatch?lstrip?lsubs?tpatch?tsubs?wpatch?wstrip?wsubs?x0?y0
+[Comment]
