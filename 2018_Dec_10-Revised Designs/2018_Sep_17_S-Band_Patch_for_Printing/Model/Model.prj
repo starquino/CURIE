@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Sebastian H Tarquino
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:2018_sep_17_s-band_patch_for_printing.cst?919825a5dd3c602b0aaf5e6ebd8146a9?15467:numberofparameters=7:port=1>mode=1>zre=0>zim=0:::alignws?lpatch?lsubs?tpatch?tsubs?wpatch?wsubs
+[Comment]

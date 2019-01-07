@@ -1,0 +1,97 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 2016 1.0.1)
+System Name        : Windows_NT
+Machine Name       : TARQUINO
+User Name          : Sebastian H Tarquino
+Source System      : ACIS
+Destination System : STEP
+Input File         : D:\Users\tarquino\Documents\Simulaciones_Curie\2018_Jul_24\2018_Nov_27_S-Band_Patch_for_Printing.sat
+Output File        : D:\Users\tarquino\Documents\Simulaciones_Curie\2018_Jul_24\2018_Nov_27_S-Band_Patch_for_Printing.stp
+Start Time         : Tue Nov 27 16:19:22 2018
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : IGES.Writer.TranslateSolidSheets : true
+Message : IGES.TrimCurveWritePreference  : 3
+Message : TranslateAttributes : true
+Message : IGES.Writer.ConvertAnalyticalSurfacesAndCurvesToSpline : false
+Message : ProgramName : CST ACIS InterOp Converter 2016
+Message : AuthorName : Sebastian H Tarquino
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 27 Nov 2018
+File Name                : 2018_Nov_27_S-Band_Patch_for_Printing.sat
+Organization             : CST MICROWAVE STUDIO
+Version                  : 2600
+Units                    : MILLIMETER
+Tolerance                : 0,000001
+Document Type            : Part
+Format Type              : ACIS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Solid Bodies                       :    7
+No. of Wire Bodies                        :    0
+No. of Curve Sets                         :    0
+No. of Geometric Sets                     :    1
+No. of Sheet Bodies                       :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    8
+--------------------------------------------------------------------------------
+Output File "D:\Users\tarquino\Documents\Simulaciones_Curie\2018_Jul_24\2018_Nov_27_S-Band_Patch_for_Printing.stp" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Tue Nov 27 16:19:23 2018
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
